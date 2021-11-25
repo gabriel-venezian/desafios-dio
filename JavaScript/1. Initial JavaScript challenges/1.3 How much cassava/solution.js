@@ -29,7 +29,7 @@
   Chica will consume. The first integer represents the portions of Chico, the second of Bento, 
   the third by Bernardo, fourth by Marina and fifth by Iara.
 
-  Exit:
+  Output:
   The output consists of a single integer that represents how much cassava Marlene must 
   prepare in grams.
 */

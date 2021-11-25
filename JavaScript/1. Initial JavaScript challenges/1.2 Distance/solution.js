@@ -15,7 +15,7 @@
   The input file contains an integer K representing the amount of
   kilometer that the bike Y must be of the bike X.
 
-  Exit:
+  Output:
   Print the time needed for the Y bike to get the kilometers quantity of bike X, 
   followed by the message "minutes".
 */

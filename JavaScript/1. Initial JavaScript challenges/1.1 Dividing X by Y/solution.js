@@ -10,7 +10,7 @@
   The input contains an integer N. This will be the number of pairs of
   integer values ​​(X and Y) that will be read next.
   
-  Exit:
+  Output:
   For each case show the result of the division with one digit after the decimal 
   point, or “impossible division” if it is not possible to perform the calculation.
 */
